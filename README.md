@@ -61,12 +61,14 @@ Recruitment pipeline analytics — KPIs, bottlenecks, and operational insights f
 
 ---
 
-### GCP GenAI Application · *In progress*
-[![Status](https://img.shields.io/badge/Status-Portfolio_Project_3-F59E0B?style=for-the-badge)](https://github.com/veerendrakalyanbabu-VKB/AI-Document-QA-Assistant)
+### GCP GenAI Application · *Coming soon — separate repo*
+[![Status](https://img.shields.io/badge/Status-Portfolio_Project_3-F59E0B?style=for-the-badge)]()
 
-Cloud deployment of the document Q&A stack on **Google Cloud Platform**.
+A **separate** cloud project using Google Cloud Platform, BigQuery, Cloud Storage, IAM, and Generative AI.
 
-`Python` `GCP` `Cloud Run` `Generative AI`
+`Python` `GCP` `BigQuery` `Cloud Storage` `Vertex AI`
+
+*Not part of this repository — will be built as its own project.*
 
 ---
 
