@@ -76,8 +76,8 @@ A **separate** cloud project using Google Cloud Platform, BigQuery, Cloud Storag
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veerendrakalyanbabu-VKB&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+![GitHub stats](https://github-readme-stats-rho-jade.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub streak](https://streak-stats.demolab.com/?user=veerendrakalyanbabu-VKB&theme=tokyonight&hide_border=true)
 
 </div>
 
