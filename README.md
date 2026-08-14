@@ -1,118 +1,276 @@
-<div align="center">
-
 # Veerendra Kalyan
 
-**AI / GenAI Engineer · Python · RAG · SQL · Cloud**
+### AI / GenAI Engineer · Python · RAG · SQL · Cloud
 
-Building portfolio projects at the intersection of **data, recruitment domain expertise, and generative AI**.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-veerendrakalyanbabu--VKB-181717?style=for-the-badge&logo=github)](https://github.com/veerendrakalyanbabu-VKB)
-[![Flagship Project](https://img.shields.io/badge/Flagship-NexusDocs_AI-6366F1?style=for-the-badge)](https://github.com/veerendrakalyanbabu-VKB/AI-Document-QA-Assistant)
-
-</div>
+Building practical AI and data applications at the intersection of **generative AI, analytics, cloud engineering, and recruitment-domain expertise**.
 
 ---
 
-## About
+## 👋 About Me
 
-I'm **Veerendra Kalyan** — 5+ years in **US IT staffing and recruitment operations**, now transitioning into **AI engineering** with hands-on projects in Python, RAG, vector search, and cloud.
+I'm **Veerendra Kalyan**, a technology professional with **5+ years of experience in US IT staffing, recruitment operations, client management, and business process analysis**, now transitioning into **AI / GenAI engineering and data-focused roles**.
 
-I focus on **practical applications** backed by real domain knowledge, not tutorial clones.
+My approach is simple:
 
----
+> **Build real systems that solve real problems — not tutorial clones.**
 
-## Tech Stack
+I'm currently building hands-on projects involving:
 
-<div align="center">
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Python
+* Vector search
+* SQL
+* Data analytics
+* Google Cloud Platform
+* AI-powered business applications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-6366F1?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
+My domain background in recruitment and staffing gives me an additional advantage: I understand the business problems behind the data and can translate them into practical technology solutions.
 
 ---
 
-## Featured Projects
+## 🧠 Technical Stack
 
-### AI Document Q&A Assistant · *NexusDocs AI*
-[![Repository](https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge)](https://github.com/veerendrakalyanbabu-VKB/AI-Document-QA-Assistant)
+**Languages**
 
-End-to-end **RAG application** — upload PDF/DOCX/TXT, index with embeddings, retrieve with **FAISS**, generate grounded answers with **FLAN-T5** or **OpenAI**.
+`Python` `SQL`
 
-`Python` `RAG` `FAISS` `Streamlit` `LangChain` `Embeddings`
+**AI / GenAI**
 
----
+`Generative AI` `RAG` `Prompt Engineering` `Embeddings` `Vector Search` `LLM Applications`
 
-### Recruitment Analytics Platform
-[![Repository](https://img.shields.io/badge/View_Repository-22C55E?style=for-the-badge)](https://github.com/veerendrakalyanbabu-VKB/Recruitment-Analytics-Platform)
+**AI / ML Frameworks**
 
-Recruitment pipeline analytics — KPIs, bottlenecks, and operational insights for staffing workflows.
+`LangChain` `FAISS` `Transformers` `FLAN-T5`
 
-`Python` `Pandas` `SQL` `Streamlit` `Data Analytics`
+**Data & Analytics**
 
----
+`Pandas` `Data Analysis` `Data Visualization` `KPI Analytics`
 
-### GCP GenAI Application · *Coming soon — separate repo*
-[![Status](https://img.shields.io/badge/Status-Portfolio_Project_3-F59E0B?style=for-the-badge)]()
+**Application Development**
 
-A **separate** cloud project using Google Cloud Platform, BigQuery, Cloud Storage, IAM, and Generative AI.
+`Streamlit` `Python APIs` `SQLite`
 
-`Python` `GCP` `BigQuery` `Cloud Storage` `Vertex AI`
+**Cloud**
 
-*Not part of this repository — will be built as its own project.*
+`Google Cloud Platform` `BigQuery` `Cloud Storage` `IAM` `Vertex AI`
 
----
+**Tools**
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-rho-jade.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-![GitHub streak](https://streak-stats.demolab.com/?user=veerendrakalyanbabu-VKB&theme=tokyonight&hide_border=true)
-
-</div>
+`Git` `GitHub` `VS Code`
 
 ---
 
-## Background
+# 🚀 Featured Projects
 
-| Area | Details |
-|------|---------|
-| **Domain** | US IT Staffing · Recruitment Operations · Pipeline Analytics |
-| **Certification** | Deloitte Data Analytics — Virtual Experience (Forage, 2026) |
-| **Focus** | GenAI applications · RAG · Python · SQL · GCP |
-| **Target roles** | Junior AI Engineer · GenAI Associate · Data Analyst |
+## 1. NexusDocs AI — AI Document Q&A Assistant
+
+An end-to-end **Retrieval-Augmented Generation (RAG)** application designed to allow users to upload documents and ask questions using natural language.
+
+### Capabilities
+
+* PDF / DOCX / TXT document ingestion
+* Text extraction and preprocessing
+* Document chunking
+* Embedding generation
+* Vector similarity search
+* FAISS-based retrieval
+* Context-grounded answer generation
+* Streamlit interface
+* Local / API-based LLM support
+
+**Technologies**
+
+`Python` `RAG` `FAISS` `LangChain` `Embeddings` `Streamlit` `LLM`
+
+🔗 **Repository:**
+https://github.com/veerendrakalyanbabu-VKB/AI-Document-QA-Assistant
 
 ---
 
-## Portfolio Roadmap
+## 2. Recruitment Analytics Platform
+
+A business-focused analytics application designed around real-world **recruitment and staffing operations**.
+
+### Capabilities
+
+* Recruitment pipeline analysis
+* Candidate tracking
+* KPI monitoring
+* Bottleneck identification
+* Operational analytics
+* Data processing
+* Interactive dashboards
+* SQLite-based data storage
+
+**Technologies**
+
+`Python` `Pandas` `SQL` `SQLite` `Streamlit` `Data Analytics`
+
+🔗 **Repository:**
+https://github.com/veerendrakalyanbabu-VKB/Recruitment-Analytics-Platform
+
+---
+
+## 3. Astra Platform — AI Engineering Project
+
+**Astra** is my long-term AI engineering project focused on exploring how a powerful AI platform can combine intelligent assistance, automation, developer tooling, system architecture, and human-centered interaction.
+
+The project is being developed incrementally with an emphasis on:
+
+* Modular architecture
+* AI-assisted workflows
+* Automation
+* Developer productivity
+* Intelligent system interaction
+* Extensible platform design
+
+**Technologies**
+
+`Python` `AI` `Automation` `System Architecture`
+
+🔗 **Repository:**
+https://github.com/veerendrakalyanbabu-VKB/astra-platform
+
+---
+
+## 4. GCP GenAI Application
+
+**In development**
+
+A cloud-native generative AI application designed to demonstrate practical use of:
+
+`Python` `GCP` `BigQuery` `Cloud Storage` `IAM` `Vertex AI`
+
+This project will be maintained as a **separate repository** as part of my cloud + AI portfolio.
+
+---
+
+# 🏗️ Engineering Focus
+
+My current development path follows three connected areas:
 
 ```text
-Recruitment Analytics  →  AI Document Q&A  →  GCP Cloud Deployment
-     (Data/Analytics)        (GenAI/RAG)         (Cloud + AI)
+DATA & ANALYTICS
+       │
+       ▼
+Recruitment Analytics
+       │
+       ▼
+AI / GENAI
+       │
+       ▼
+RAG + Document Intelligence
+       │
+       ▼
+CLOUD + AI
+       │
+       ▼
+GCP + BigQuery + Vertex AI
+```
+
+The goal is to demonstrate the ability to move from:
+
+**Business Problem → Data → AI Application → Cloud Deployment**
+
+---
+
+# 💼 Domain Experience
+
+| Area              | Experience                                                       |
+| ----------------- | ---------------------------------------------------------------- |
+| Domain            | US IT Staffing & Recruitment Operations                          |
+| Business          | Recruitment Operations · Client Management · Pipeline Management |
+| Analytics         | KPI Tracking · Pipeline Analytics · Operational Insights         |
+| AI Focus          | GenAI · RAG · LLM Applications                                   |
+| Programming       | Python · SQL                                                     |
+| Cloud             | Google Cloud Platform                                            |
+| Current Direction | AI / GenAI Engineering · Data Analytics                          |
+
+---
+
+# 🎯 Target Roles
+
+I'm currently building toward opportunities such as:
+
+* **Junior AI Engineer**
+* **GenAI Engineer / Associate**
+* **AI Application Developer**
+* **Python Developer — AI/Automation**
+* **Data Analyst**
+* **AI / Data Engineering Associate**
+
+---
+
+# 📈 Portfolio Roadmap
+
+```text
+Recruitment Analytics
+        │
+        ▼
+AI Document Intelligence
+        │
+        ▼
+RAG / Vector Search
+        │
+        ▼
+GCP + BigQuery
+        │
+        ▼
+Cloud GenAI Application
+        │
+        ▼
+Advanced AI Engineering
 ```
 
 ---
 
-<div align="center">
+# 🔬 What I'm Building
 
-**Open to opportunities in AI engineering and data roles.**
+I'm focused on creating portfolio projects that demonstrate more than individual technologies.
 
-<br>
+Each project is intended to show:
 
-[![All Repositories](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/veerendrakalyanbabu-VKB?tab=repositories)
+**Problem Understanding**
 
-<br>
+↓
 
-*Building in public — from recruitment operations to AI engineering.*
+**Data / Document Processing**
 
-</div>
+↓
+
+**AI / ML Logic**
+
+↓
+
+**Application Development**
+
+↓
+
+**Testing & Reliability**
+
+↓
+
+**Cloud Integration**
+
+↓
+
+**Production-Oriented Architecture**
+
+---
+
+# 🌎 Open to Opportunities
+
+I'm open to opportunities in:
+
+**AI Engineering · GenAI · Python · Data Analytics · AI Applications**
+
+I'm especially interested in teams building practical AI products, intelligent automation systems, analytics platforms, and cloud-based applications.
+
+---
+
+### Building in public.
+
+**From recruitment operations → data analytics → AI engineering.**
+
+The journey is just getting started.
