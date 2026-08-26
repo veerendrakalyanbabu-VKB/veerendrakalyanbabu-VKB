@@ -1,134 +1,323 @@
-# Veerendra Kalyan
+# Veerendra Kalyan Babu — Advanced Visual GitHub Profile README
 
-### AI / GenAI Engineer · Python · Data & Analytics · RAG · Cloud
+````markdown
+<div align="center">
 
-Building practical AI, analytics, and data applications that turn **real business problems** into intelligent, testable systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=Veerendra%20Kalyan%20Babu&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Cloud%20%26%20Intelligent%20Systems&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
+
+<h3>
+Building practical AI systems, data products and intelligent applications.
+</h3>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI+and+Generative+AI+Applications;Designing+RAG+and+Intelligent+Systems;Turning+Real-World+Problems+Into+Working+Products;Learning+Fast.+Building+Continuously.+Shipping+Projects." />
+</p>
+
+<a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/veerendrakalyanbabu-VKB">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=veerendrakalyanbabu-VKB&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## About
-
-I'm **Veerendra Kalyan** — **5+ years in US IT staffing**, recruitment operations, client management, and business process analysis — now building hands-on work in **AI / GenAI engineering, data analytics, and cloud-oriented applications**.
-
-I understand the recruitment pipeline from operations, not just from datasets. That domain context shapes how I design KPIs, funnel logic, and intelligence layers.
+# 👨‍💻 About Me
 
 ```text
-Business Domain (Staffing / Recruitment)
-        ↓
-Data & Analytics (KPIs, funnel, quality)
-        ↓
-AI Applications (RAG, document QA, copilots)
-        ↓
-Cloud (GCP direction — BigQuery, Vertex AI)
-        ↓
-Engineering (tests, caching, APIs, deployment)
+Name        : Veerendra Kalyan Babu
+Focus       : AI • GenAI • RAG • Python • Data • Cloud
+Approach    : Learn → Build → Test → Improve → Ship
+Current     : Building intelligent applications and AI systems
+Goal        : Becoming a strong end-to-end AI / GenAI Engineer
+````
+
+I build practical, portfolio-driven applications that combine **Python, Data, Generative AI, RAG, analytics and cloud technologies**.
+
+My approach is simple:
+
+> **Understand the problem → Build the system → Validate the output → Keep improving.**
+
+---
+
+# ⚡ Engineering Dashboard
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerendrakalyanbabu-VKB&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=veerendrakalyanbabu-VKB&hide_border=true&background=FFFFFF00&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" />
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veerendrakalyanbabu-VKB&bg_color=ffffff&color=334155&line=2563eb&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+# 🧠 What I Build
+
+<div align="center">
+
+| 🤖 AI & GenAI       | 📄 Intelligent Documents | 📊 Data Intelligence | ☁️ Cloud Systems |
+| ------------------- | ------------------------ | -------------------- | ---------------- |
+| RAG Applications    | Document Q&A             | Analytics Platforms  | GCP              |
+| AI Workflows        | Embeddings               | Dashboards           | Cloud Storage    |
+| Vector Search       | Semantic Retrieval       | KPI Analysis         | BigQuery         |
+| Intelligent Systems | Context-Aware AI         | Data Processing      | AI Platforms     |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🧠 OpenWorld
+
+### The Trust Layer for the Agentic Internet
+
+**Human Intent → Policy → AI Execution → Approval → Audit → Verifiable Results**
+
+An exploration of how intelligent and autonomous systems can operate within a framework of trust, governance, policy controls, human approval and auditable execution.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-OpenWorld-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://openworld-web.onrender.com/)
+
+`Agentic AI` • `Governance` • `Policy` • `Human Approval` • `Auditability`
+
+---
+
+## 📄 NexusDocs AI
+
+### AI-Powered Document Intelligence
+
+```text
+Documents
+    │
+    ▼
+Text Extraction
+    │
+    ▼
+Chunking & Processing
+    │
+    ▼
+Embeddings
+    │
+    ▼
+Vector Search
+    │
+    ▼
+Context Retrieval
+    │
+    ▼
+AI-Generated Answer
 ```
 
-> **Business problem → data → intelligence → application → cloud**
+An AI-powered **Retrieval-Augmented Generation (RAG)** application for exploring documents and generating context-aware answers grounded in retrieved information.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-NexusDocs%20AI-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://nexusdocs-ai.streamlit.app/)
+
+`Python` • `RAG` • `LangChain` • `Embeddings` • `FAISS` • `Streamlit`
 
 ---
 
-## Flagship Project
+## ⚡ NexusOps AI
 
-### Recruitment Intelligence Platform
+### Engineering & Operations Intelligence
 
-Analytics platform for recruitment funnel KPIs, executive intelligence, recruiter/client/source insights, pipeline aging, forecasting, and natural-language analytics.
+```text
+Operational Signals
+       +
+Infrastructure Health
+       +
+Incident Context
+       │
+       ▼
+Data Processing & Analysis
+       │
+       ▼
+Operational Intelligence
+       │
+       ▼
+Insights & Decisions
+```
 
-**Stack:** Python · Streamlit · Pandas · DuckDB · PyArrow · pytest (50 tests)
+An AI-powered engineering and operations intelligence platform designed to help teams investigate infrastructure health, operational signals and incidents.
 
-**Live demo:** https://recruitment-analytics-platform-vkb.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-NexusOps%20AI-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://nexusops-ai-y6cvwvktst6dq2peeudqsz.streamlit.app/)
 
-**Repo:** https://github.com/veerendrakalyanbabu-VKB/Recruitment-Analytics-Platform
-
-_Sample 10k dataset metrics (synthetic test data): 10,000 applications · 6,689 interviews · 65.05% interview selection · 3,262 joined · 90.56% joining rate._
-
----
-
-## Featured Projects
-
-### 1. Recruitment Intelligence Platform — flagship
-
-| | |
-|---|---|
-| **Problem** | Recruitment teams need repeatable funnel and KPI visibility from CSV exports |
-| **Solution** | Modular Streamlit app with DuckDB analytics, fingerprint caching, NL analyst, 50 automated tests |
-| **Tech** | Python, Streamlit, Pandas, DuckDB, PyArrow, pytest |
-| **Demo** | https://recruitment-analytics-platform-vkb.streamlit.app/ |
-
-### 2. AI Document Q&A Assistant (NexusDocs AI)
-
-| | |
-|---|---|
-| **Problem** | Users need grounded answers from uploaded documents, not generic LLM responses |
-| **Solution** | RAG pipeline: PDF/DOCX/TXT → chunk → embed → FAISS retrieval → cited answers |
-| **Tech** | Python, LangChain, FAISS, Streamlit, OpenAI or local FLAN-T5 |
-| **Demo** | https://nexusdocs-ai.streamlit.app |
-| **Repo** | https://github.com/veerendrakalyanbabu-VKB/AI-Document-QA-Assistant |
-
-### 3. NexusOps AI
-
-| | |
-|---|---|
-| **Problem** | Ops teams need a structured view of incidents, correlation, and decision support |
-| **Solution** | Streamlit ops command center with incident intelligence, service correlation, AI copilot |
-| **Tech** | Python, Streamlit, Pandas, Plotly |
-| **Note** | Uses **simulated telemetry** for portfolio demonstration |
-| **Demo** | https://nexusops-ai-y6cvwvktst6dq2peeudqsz.streamlit.app/ |
-| **Repo** | https://github.com/veerendrakalyanbabu-VKB/nexusops-ai |
-
-### 4. Astra Platform
-
-| | |
-|---|---|
-| **Problem** | Explore modular AI command workflows — intent routing, knowledge, multi-handler pipelines |
-| **Solution** | Local-first Streamlit command center with intent engine, knowledge graph, optional LLM APIs, CI + extensive pytest suite |
-| **Tech** | Python, Streamlit, pytest, optional Groq/Claude/GPT via env |
-| **Demo** | https://astra-platform-os.streamlit.app/ |
-| **Repo** | https://github.com/veerendrakalyanbabu-VKB/astra-platform |
+`Python` • `Streamlit` • `Pandas` • `Plotly` • `Testing` • `Operational Analytics`
 
 ---
 
-## Technical Stack
+## 📊 Recruitment Intelligence Platform
 
-**Languages** · `Python` `SQL`
+### From Recruitment Data to Actionable Insights
 
-**AI / GenAI** · `RAG` `Embeddings` `Vector Search` `LangChain` `FAISS` `Transformers` `FLAN-T5` `Prompt Engineering`
+```text
+Recruitment Data
+       │
+       ▼
+Data Processing
+       │
+       ▼
+Pipeline Analytics
+       │
+       ├──────────► Recruiter Performance
+       ├──────────► Candidate Funnel
+       ├──────────► Hiring Trends
+       └──────────► Operational KPIs
+       │
+       ▼
+Interactive Intelligence
+```
 
-**Data** · `Pandas` `DuckDB` `PyArrow` `Data Validation` `KPI Analytics` `Plotly`
+An end-to-end analytics application designed to transform recruitment data into insights across pipelines, recruiter performance, candidate funnels and operational KPIs.
 
-**Application** · `Streamlit` `Python APIs`
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Recruitment%20Intelligence-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://recruitment-analytics-platform-vkb.streamlit.app/)
 
-**Cloud** · `GCP` `BigQuery` `Cloud Storage` `Vertex AI` `IAM` *(portfolio exploration + NexusOps GCP module)*
+`Python` • `Pandas` • `Streamlit` • `DuckDB` • `PyArrow` • `pytest`
 
-**Tools** · `Git` `GitHub` `Cursor` `pytest`
-
----
-
-## Domain Experience
-
-| Area | Background |
-|------|------------|
-| Domain | US IT staffing & recruitment operations |
-| Operations | Pipeline management · client coordination · KPI tracking |
-| Engineering focus | Recruitment analytics · RAG · intelligent Streamlit applications |
-| Direction | AI / GenAI engineering · data & analytics engineering |
-
----
-
-## Target Roles
-
-- AI / GenAI Engineer
-- AI Application Engineer
-- GenAI / RAG Engineer
-- Python Developer — AI & Automation
-- Data / Analytics Engineer
-- AI Solutions Engineer
-- Business Intelligence / Data Analytics
+</div>
 
 ---
 
-## Connect
+# 🛠️ Technology Stack
 
-Open to roles in **AI engineering, GenAI/RAG, Python automation, data analytics, and intelligent application development**.
+<div align="center">
 
-**Building in public** — from recruitment operations to data intelligence to AI applications.
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,sql,git,github,vscode" />
+
+<br/><br/>
+
+### AI & Generative AI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+`RAG`   `LLMs`   `Embeddings`   `Vector Search`   `LangChain`   `FAISS`   `Prompt Engineering`
+
+<br/><br/>
+
+### Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+`Pandas`   `SQL`   `DuckDB`   `PyArrow`   `Plotly`   `Power BI`
+
+<br/><br/>
+
+### Cloud & Application Engineering
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,streamlit,fastapi" />
+
+<br/>
+
+`Google Cloud Platform`   `BigQuery`   `Cloud Storage`   `Vertex AI`   `IAM`   `REST APIs`   `pytest`
+
+</div>
+
+---
+
+# 🧭 My Engineering Workflow
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[💡 Problem] --> B[🔍 Understand]
+    B --> C[📐 Design]
+    C --> D[⚙️ Build]
+    D --> E[🧪 Test]
+    E --> F[📊 Analyze]
+    F --> G[🚀 Deploy]
+    G --> H[🔄 Improve]
+```
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+<div align="center">
+
+| Area             | Current Focus                                         |
+| ---------------- | ----------------------------------------------------- |
+| 🧠 Generative AI | Advanced RAG architectures and intelligent workflows  |
+| 🤖 Agentic AI    | Agents, orchestration and reliable execution          |
+| ☁️ Cloud         | Google Cloud architecture and AI engineering          |
+| 🏗️ Systems      | Scalable, maintainable application design             |
+| 🧪 Quality       | Testing, validation and production-minded development |
+
+</div>
+
+---
+
+# 📈 Learning & Building
+
+```text
+Python Engineering       ████████████████████░
+Data & Analytics         ███████████████████░░
+Generative AI / RAG      █████████████████░░░░
+Cloud Engineering        ███████████████░░░░░░
+Agentic AI Systems       █████████████░░░░░░░░
+```
+
+> These bars represent my **current learning and project focus**, not certified proficiency percentages.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to connecting with professionals, engineers and teams building in:
+
+**AI • Generative AI • RAG • Python • Data • Cloud • Intelligent Systems**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💻 Explore My Work
+
+<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=footer" width="100%" />
+
+### 🚀 Building. Learning. Shipping. Improving.
+
+</div>
+```
