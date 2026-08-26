@@ -1,89 +1,101 @@
-# K.Veerendra Kalyan Babu — GitHub Profile README
+# Veerendra Kalyan Babu — VKB
 
 ````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=Veerendra%20Kalyan%20Babu&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Cloud%20%26%20Intelligent%20Systems&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Veerendra%20Kalyan%20Babu&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Python%20%E2%80%A2%20Cloud&descSize=18&descAlignY=58&animation=fadeIn&color=0:020617,50:0F172A,100:2563EB&fontColor=FFFFFF"
+  width="100%"
+/>
 
-<h3>
-Building practical AI systems, data products and intelligent applications.
-</h3>
+<h3>Building intelligent systems that turn real-world problems into working applications.</h3>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI+and+Generative+AI+Applications;Designing+RAG+and+Intelligent+Systems;Turning+Real-World+Problems+Into+Working+Products;Learning+Fast.+Building+Continuously.+Shipping+Projects." />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Building+AI+and+Generative+AI+Applications;Designing+RAG+and+Intelligent+Systems;Exploring+Agentic+AI+and+Trustworthy+Automation;Learning+Continuously.+Building+Practically.+Shipping+Projects."
+  alt="Typing SVG"
+/>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/veerendrakalyanbabu-VKB">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=veerendrakalyanbabu-VKB&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<a href="https://github.com/veerendrakalyanbabu-VKB">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Veerendra
+
+I build practical applications across **Artificial Intelligence, Generative AI, Retrieval-Augmented Generation, Data Analytics and Cloud technologies**.
+
+My focus is not just learning individual tools. I focus on understanding how they work together to create useful systems:
+
+> **Problem → Data → Architecture → Intelligence → Application → Testing → Improvement**
+
+<br/>
+
+## 🧭 Engineering Profile
 
 ```text
-Name        : Veerendra Kalyan Babu
-Focus       : AI • GenAI • RAG • Python • Data • Cloud
-Approach    : Learn → Build → Test → Improve → Ship
-Current     : Building intelligent applications and AI systems
-Goal        : Becoming a strong end-to-end AI / GenAI Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  FOCUS      →  AI • GenAI • RAG • Python • Data • Cloud
+
+  BUILD      →  Intelligent applications and data products
+
+  APPROACH   →  Learn → Build → Test → Improve → Ship
+
+  CURRENT    →  RAG • Agentic AI • Cloud AI • System Design
+
+  PRINCIPLE  →  Practical projects over theoretical knowledge
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ````
 
-I build practical, portfolio-driven applications that combine **Python, Data, Generative AI, RAG, analytics and cloud technologies**.
-
-My approach is simple:
-
-> **Understand the problem → Build the system → Validate the output → Keep improving.**
-
 ---
 
-# 📊 Contribution Activity
+# 🚀 Flagship Projects
 
-<div align="center">
+> **Four projects. Four different engineering challenges. One goal: build useful intelligent systems.**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veerendrakalyanbabu-VKB&bg_color=ffffff&color=334155&line=2563eb&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
-# 🧠 What I Build
-
-<div align="center">
-
-| 🤖 AI & GenAI       | 📄 Intelligent Documents | 📊 Data Intelligence | ☁️ Cloud Systems |
-| ------------------- | ------------------------ | -------------------- | ---------------- |
-| RAG Applications    | Document Q&A             | Analytics Platforms  | GCP              |
-| AI Workflows        | Embeddings               | Dashboards           | Cloud Storage    |
-| Vector Search       | Semantic Retrieval       | KPI Analysis         | BigQuery         |
-| Intelligent Systems | Context-Aware AI         | Data Processing      | AI Platforms     |
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
+<br/>
 
 ## 🧠 OpenWorld
 
 ### The Trust Layer for the Agentic Internet
 
-**Human Intent → Policy → AI Execution → Approval → Audit → Verifiable Results**
+> **Human Intent → Policy → AI Execution → Approval → Audit → Verifiable Results**
 
-An exploration of how intelligent and autonomous systems can operate within a framework of trust, governance, policy controls, human approval and auditable execution.
+OpenWorld explores how autonomous and intelligent systems can operate within a framework of **trust, governance, policy controls, human approval and auditable execution**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-OpenWorld-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://openworld-web.onrender.com/)
+```mermaid
+flowchart LR
+    A[Human Intent] --> B[Policy]
+    B --> C[AI Agent]
+    C --> D[Execution]
+    D --> E[Approval]
+    E --> F[Audit]
+    F --> G[Verifiable Result]
+```
 
-`Agentic AI` • `Governance` • `Policy` • `Human Approval` • `Auditability`
+**Engineering Focus**
+
+`Agentic AI` · `AI Governance` · `Policy` · `Trust` · `Human-in-the-Loop` · `Auditability`
+
+<a href="https://openworld-web.onrender.com/">
+  <img src="https://img.shields.io/badge/Launch-Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OpenWorld Live Demo"/>
+</a>
 
 ---
 
@@ -91,33 +103,26 @@ An exploration of how intelligent and autonomous systems can operate within a fr
 
 ### AI-Powered Document Intelligence
 
-```text
-Documents
-    │
-    ▼
-Text Extraction
-    │
-    ▼
-Chunking & Processing
-    │
-    ▼
-Embeddings
-    │
-    ▼
-Vector Search
-    │
-    ▼
-Context Retrieval
-    │
-    ▼
-AI-Generated Answer
+NexusDocs AI is a **Retrieval-Augmented Generation (RAG)** application designed to transform documents into searchable knowledge and generate context-aware answers grounded in retrieved information.
+
+```mermaid
+flowchart LR
+    A[Documents] --> B[Text Extraction]
+    B --> C[Chunking]
+    C --> D[Embeddings]
+    D --> E[Vector Store]
+    E --> F[Semantic Retrieval]
+    F --> G[Context]
+    G --> H[AI Answer]
 ```
 
-An AI-powered **Retrieval-Augmented Generation (RAG)** application for exploring documents and generating context-aware answers grounded in retrieved information.
+**Engineering Focus**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-NexusDocs%20AI-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://nexusdocs-ai.streamlit.app/)
+`Python` · `RAG` · `LangChain` · `Embeddings` · `Vector Search` · `FAISS` · `Streamlit`
 
-`Python` • `RAG` • `LangChain` • `Embeddings` • `FAISS` • `Streamlit`
+<a href="https://nexusdocs-ai.streamlit.app/">
+  <img src="https://img.shields.io/badge/Launch-Live%20Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="NexusDocs AI Live Demo"/>
+</a>
 
 ---
 
@@ -125,68 +130,65 @@ An AI-powered **Retrieval-Augmented Generation (RAG)** application for exploring
 
 ### Engineering & Operations Intelligence
 
-```text
-Operational Signals
-       +
-Infrastructure Health
-       +
-Incident Context
-       │
-       ▼
-Data Processing & Analysis
-       │
-       ▼
-Operational Intelligence
-       │
-       ▼
-Insights & Decisions
+NexusOps AI explores how infrastructure health, incidents and operational signals can be brought together to support faster, evidence-based decisions.
+
+```mermaid
+flowchart LR
+    A[Operational Signals] --> D[Data Processing]
+    B[Infrastructure Health] --> D
+    C[Incident Context] --> D
+    D --> E[Analysis]
+    E --> F[Operational Intelligence]
+    F --> G[Insights]
 ```
 
-An AI-powered engineering and operations intelligence platform designed to help teams investigate infrastructure health, operational signals and incidents.
+**Engineering Focus**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-NexusOps%20AI-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://nexusops-ai-y6cvwvktst6dq2peeudqsz.streamlit.app/)
+`Python` · `Streamlit` · `Pandas` · `Plotly` · `Testing` · `Operational Analytics`
 
-`Python` • `Streamlit` • `Pandas` • `Plotly` • `Testing` • `Operational Analytics`
+<a href="https://nexusops-ai-y6cvwvktst6dq2peeudqsz.streamlit.app/">
+  <img src="https://img.shields.io/badge/Launch-Live%20Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="NexusOps AI Live Demo"/>
+</a>
 
 ---
 
 ## 📊 Recruitment Intelligence Platform
 
-### From Recruitment Data to Actionable Insights
+### From Recruitment Data to Actionable Intelligence
 
-```text
-Recruitment Data
-       │
-       ▼
-Data Processing
-       │
-       ▼
-Pipeline Analytics
-       │
-       ├──────────► Recruiter Performance
-       ├──────────► Candidate Funnel
-       ├──────────► Hiring Trends
-       └──────────► Operational KPIs
-       │
-       ▼
-Interactive Intelligence
+An end-to-end analytics platform that transforms recruitment data into insights across **candidate pipelines, recruiter performance, hiring trends and operational KPIs**.
+
+```mermaid
+flowchart LR
+    A[Recruitment Data] --> B[Data Processing]
+    B --> C[Analytics Engine]
+    C --> D[Candidate Funnel]
+    C --> E[Recruiter Performance]
+    C --> F[Hiring Trends]
+    C --> G[Operational KPIs]
+    D --> H[Interactive Insights]
+    E --> H
+    F --> H
+    G --> H
 ```
 
-An end-to-end analytics application designed to transform recruitment data into insights across pipelines, recruiter performance, candidate funnels and operational KPIs.
+**Engineering Focus**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Recruitment%20Intelligence-2563EB?style=for-the-badge\&logo=streamlit\&logoColor=white)](https://recruitment-analytics-platform-vkb.streamlit.app/)
+`Python` · `Pandas` · `Streamlit` · `DuckDB` · `PyArrow` · `pytest`
 
-`Python` • `Pandas` • `Streamlit` • `DuckDB` • `PyArrow` • `pytest`
+<a href="https://recruitment-analytics-platform-vkb.streamlit.app/">
+  <img src="https://img.shields.io/badge/Launch-Live%20Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Recruitment Intelligence Platform Live Demo"/>
+</a>
 
-</div>
+<br/>
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technology Ecosystem
 
 <div align="center">
 
-### Languages & Development
+### Core Engineering
 
 <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,vscode" />
 
@@ -194,19 +196,11 @@ An end-to-end analytics application designed to transform recruitment data into 
 
 ### AI & Generative AI
 
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/>
-
-`RAG`   `LLMs`   `Embeddings`   `Vector Search`   `LangChain`   `FAISS`   `Prompt Engineering`
+`Generative AI`   `LLMs`   `RAG`   `Embeddings`   `Vector Search`   `LangChain`   `FAISS`
 
 <br/><br/>
 
 ### Data & Analytics
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/>
 
 `Pandas`   `SQL`   `DuckDB`   `PyArrow`   `Plotly`   `Power BI`
 
@@ -214,19 +208,19 @@ An end-to-end analytics application designed to transform recruitment data into 
 
 ### Cloud & Application Engineering
 
-<img src="https://skillicons.dev/icons?i=gcp,docker,streamlit,fastapi" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,fastapi,streamlit" />
 
 <br/>
 
-`Google Cloud Platform`   `BigQuery`   `Cloud Storage`   `Vertex AI`   `IAM`   `REST APIs`   `pytest`
+`BigQuery`   `Cloud Storage`   `Vertex AI`   `IAM`   `REST APIs`   `pytest`
 
 </div>
 
+<br/>
+
 ---
 
-# 🧭 My Engineering Workflow
-
-<div align="center">
+# 🧠 How I Think About Systems
 
 ```mermaid
 flowchart LR
@@ -237,39 +231,102 @@ flowchart LR
     E --> F[📊 Analyze]
     F --> G[🚀 Deploy]
     G --> H[🔄 Improve]
+    H -.-> B
 ```
-
-</div>
 
 ---
 
-# 🎯 Currently Exploring
+# 🎯 Currently Building & Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Generative AI
+
+* Advanced RAG architectures
+* Retrieval quality
+* Context engineering
+* Evaluation and validation
+
+</td>
+<td width="50%">
+
+### 🤖 Agentic AI
+
+* Agent workflows
+* Tool orchestration
+* Human approval systems
+* Reliable AI execution
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud AI
+
+* Google Cloud
+* AI application architecture
+* Vertex AI
+* Cloud-native systems
+
+</td>
+<td width="50%">
+
+### 🏗️ Engineering
+
+* System design
+* Application architecture
+* Testing
+* Maintainable code
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Engineering Principles
 
 <div align="center">
 
-| Area             | Current Focus                                         |
-| ---------------- | ----------------------------------------------------- |
-| 🧠 Generative AI | Advanced RAG architectures and intelligent workflows  |
-| 🤖 Agentic AI    | Agents, orchestration and reliable execution          |
-| ☁️ Cloud         | Google Cloud architecture and AI engineering          |
-| 🏗️ Systems      | Scalable, maintainable application design             |
-| 🧪 Quality       | Testing, validation and production-minded development |
+|                                     |                                                           |
+| ----------------------------------- | --------------------------------------------------------- |
+| 🧩 **Build for real problems**      | Not projects created only to demonstrate syntax           |
+| 🔍 **Understand before optimizing** | Good decisions start with understanding the system        |
+| 🧪 **Test assumptions**             | Validate logic and behavior instead of guessing           |
+| 📈 **Improve continuously**         | Every project is an opportunity to build better           |
+| 🚀 **Ship what you build**          | A working application is stronger than an unfinished idea |
 
 </div>
 
 ---
 
-# 📈 Learning & Building
+# 🗂️ Explore the Portfolio
 
-```text
-Python Engineering       ████████████████████░
-Data & Analytics         ███████████████████░░
-Generative AI / RAG      █████████████████░░░░
-Cloud Engineering        ███████████████░░░░░░
-Agentic AI Systems       █████████████░░░░░░░░
-```
+<div align="center">
 
-> These bars represent my **current learning and project focus**, not certified proficiency percentages.
+### 🧠 AI Systems
+
+**OpenWorld**  •  **NexusDocs AI**
+
+### ⚙️ Intelligence & Operations
+
+**NexusOps AI**
+
+### 📊 Data & Analytics
+
+**Recruitment Intelligence Platform**
+
+<br/>
+
+<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+</a>
+
+</div>
 
 ---
 
@@ -277,29 +334,28 @@ Agentic AI Systems       █████████████░░░░░�
 
 <div align="center">
 
-### Open to connecting with professionals, engineers and teams building in:
+### Interested in connecting around:
 
 **AI • Generative AI • RAG • Python • Data • Cloud • Intelligent Systems**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/veerendrakalyanbabu-VKB">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <br/><br/>
 
-### 💻 Explore My Work
+### 🚀 Build intelligently. Learn continuously. Ship meaningful work.
 
-<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=120&section=footer" width="100%" />
-
-### 🚀 Building. Learning. Shipping. Improving.
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0F172A,100:2563EB"
+width="100%"
+/>
 
 </div>
 ```
