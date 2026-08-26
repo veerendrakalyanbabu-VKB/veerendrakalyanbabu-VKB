@@ -44,23 +44,37 @@ My approach is simple:
 
 ---
 
-# ⚡ Engineering Dashboard
+## ⚡ Engineering Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+<a href="https://github.com/veerendrakalyanbabu-VKB">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=1800"
+    height="180"
+    alt="Veerendra Kalyan Babu's GitHub statistics"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerendrakalyanbabu-VKB&layout=compact&hide_border=true&theme=transparent" />
+<a href="https://github.com/veerendrakalyanbabu-VKB">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerendrakalyanbabu-VKB&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800"
+    height="180"
+    alt="Most used programming languages"
+  />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=veerendrakalyanbabu-VKB&hide_border=true&background=FFFFFF00&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B" />
+<img
+src="https://streak-stats.demolab.com?user=veerendrakalyanbabu-VKB&hide_border=true&background=FFFFFF00&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B"
+alt="GitHub contribution streak"
+/>
 
 </div>
 
----
 
 # 📊 Contribution Activity
 
