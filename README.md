@@ -1,4 +1,4 @@
-# Veerendra Kalyan Babu — Advanced Visual GitHub Profile README
+# K.Veerendra Kalyan Babu — GitHub Profile README
 
 ````markdown
 <div align="center">
@@ -43,38 +43,6 @@ My approach is simple:
 > **Understand the problem → Build the system → Validate the output → Keep improving.**
 
 ---
-
-## ⚡ Engineering Dashboard
-
-<div align="center">
-
-<a href="https://github.com/veerendrakalyanbabu-VKB">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=veerendrakalyanbabu-VKB&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=1800"
-    height="180"
-    alt="Veerendra Kalyan Babu's GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/veerendrakalyanbabu-VKB">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerendrakalyanbabu-VKB&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800"
-    height="180"
-    alt="Most used programming languages"
-  />
-</a>
-
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=veerendrakalyanbabu-VKB&hide_border=true&background=FFFFFF00&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=64748B&dates=64748B"
-alt="GitHub contribution streak"
-/>
-
-</div>
-
 
 # 📊 Contribution Activity
 
