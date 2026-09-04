@@ -72,4 +72,3 @@ I am open to **AI Engineer, GenAI Engineer, Applied AI, and Python AI Engineer**
 - [GitHub](https://github.com/veerendrakalyanbabu-VKB)
 - [Email](mailto:veerendra.kalyanbabu@gmail.com)
 
-<sub>Hyderabad, India · Portfolio claims describe implemented or explicitly identified in-progress work.</sub>
