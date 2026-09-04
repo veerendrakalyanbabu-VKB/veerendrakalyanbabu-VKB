@@ -1,429 +1,75 @@
-# Veerendra Kalyan Babu — AI Engineering Portfolio
+<p align="center">
+  <img src="./assets/engineering-banner.svg" alt="Veerendra Kalyan Babu — applied AI systems portfolio" width="100%" />
+</p>
 
-````markdown
-<!-- ===================================================== -->
-<!--               VEERENDRA KALYAN BABU                   -->
-<!--        AI / GENAI / RAG / CLOUD ENGINEERING           -->
-<!-- ===================================================== -->
+<p align="center">
+  <strong>Applied AI systems · RAG · Agent governance · Prompt infrastructure · Cloud engineering</strong>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/veerendrakalyanbabu/">LinkedIn</a>
+  ·
+  <a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">All repositories</a>
+  ·
+  <a href="mailto:veerendra.kalyanbabu@gmail.com">Email</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,6,8&height=260&section=header&text=VEERENDRA%20KALYAN%20BABU&fontSize=50&fontAlignY=40&desc=AI%20%E2%80%A2%20GENAI%20%E2%80%A2%20RAG%20%E2%80%A2%20PYTHON%20%E2%80%A2%20CLOUD&descAlignY=60&descSize=18&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+---
 
-<br/>
+## Engineering profile
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Building+Intelligent+Systems.;Engineering+Generative+AI+Applications.;Turning+Complex+Problems+Into+Working+Products.;Build.+Test.+Ship.+Improve." alt="Dynamic introduction"/>
+I build working AI applications that connect model capabilities with the parts that make software dependable: retrieval, structured data, policy enforcement, evaluation, observability, security boundaries, and deployment.
 
-<br/><br/>
+My background includes more than five years in US IT staffing, recruitment operations, and client management. That experience shapes how I build: start from the operating problem, define the decisions the system must support, and make the result understandable to the people who use it.
 
-<a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/veerendrakalyanbabu-VKB">
-  <img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I am currently focused on production-minded GenAI engineering with Python, TypeScript, RAG, agentic workflows, GCP, and Cloudflare.
 
-</div>
+## Selected systems
 
-<br/>
+| Project | Engineering problem | Implementation evidence |
+|---|---|---|
+| **[Instruxa](https://github.com/veerendrakalyanbabu-VKB/Instruxa)** | Treat prompts as versioned, measurable AI assets instead of disposable chat text | React + TypeScript, Cloudflare Workers/D1, encrypted BYOK, OpenAI/Claude/Gemini gateway, response evaluation, Stripe sandbox billing · **[Live](https://still-darkness-9403.veerendra-kalyanbabu.workers.dev/)** |
+| **[OpenWorld](https://github.com/veerendrakalyanbabu-VKB/OpenWorld)** | Put a deterministic trust boundary between an AI agent and real-world execution | FastAPI + Next.js, capability and policy checks, risk decisions, human approval, verification, audit trails · **[Live](https://openworld-web.onrender.com/)** |
+| **[Recruitment Intelligence Platform](https://github.com/veerendrakalyanbabu-VKB/Recruitment-Intelligence-Platform)** | Convert staffing exports into reliable operational decisions | Python, Streamlit, Pandas, DuckDB, schema normalization, funnel analytics, data-quality checks, tested KPI calculations · **[Live](https://recruitment-analytics-platform-vkb.streamlit.app/)** |
+| **[NexusDocs AI](https://github.com/veerendrakalyanbabu-VKB/NexusDocs-AI)** | Answer questions from uploaded documents with traceable retrieved context | Python, Streamlit, document parsing, chunking, embeddings, FAISS retrieval, grounded generation · **[Live](https://nexusdocs-ai.streamlit.app/)** |
+| **[Astra Platform](https://github.com/veerendrakalyanbabu-VKB/Astra-Platform)** | Explore a local-first command surface for memory, knowledge, voice, and specialized agents | Python, Streamlit, Three.js interface, intent routing, local memory, knowledge graph, provider bridge · **[Live](https://astra-platform-os.streamlit.app/)** |
 
-<div align="center">
+## What the portfolio demonstrates
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                 INTELLIGENT SYSTEMS • REAL PRODUCTS                 ║
-║                                                                      ║
-║      AI  →  DATA  →  RETRIEVAL  →  REASONING  →  DECISION           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-````
-
-</div>
-
----
-
-# 🧠 ENGINEERING IDENTITY
-
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│  ROLE          AI / GENERATIVE AI ENGINEER                         │
-│                                                                    │
-│  PRIMARY       Python • RAG • Intelligent Applications             │
-│                                                                    │
-│  ENGINEERING   Data • Retrieval • Automation • Cloud               │
-│                                                                    │
-│  MINDSET       Understand → Design → Build → Test → Improve        │
-│                                                                    │
-│  CURRENT       Agentic AI • Advanced RAG • Cloud AI Systems        │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+Product problem
+    → explicit architecture and trust boundaries
+    → deterministic core behavior
+    → AI integration where it adds measurable value
+    → tests, telemetry, deployment, and documented limitations
 ```
 
-</div>
+- **AI application engineering:** multi-provider model gateways, RAG pipelines, prompt compilation, evaluation, and agent workflows.
+- **Backend and trust:** FastAPI, Cloudflare Workers, REST APIs, authentication, authorization, encryption, policy enforcement, and auditability.
+- **Data systems:** Python, SQL, Pandas, DuckDB, BigQuery concepts, data validation, operational KPIs, and analytical workflows.
+- **Product delivery:** React, TypeScript, Next.js, Streamlit, GitHub Actions, Docker, Cloudflare, Render, and GCP foundations.
 
-I build practical applications that connect **Artificial Intelligence, Generative AI, Retrieval-Augmented Generation, data processing, analytics and cloud technologies**.
+## Engineering principles
 
-The goal is simple:
+1. **Make the boundary explicit.** Identity, authorization, provider credentials, and commercial state belong on the server.
+2. **Keep deterministic behavior testable.** AI is one component of the system, not a substitute for application logic.
+3. **Show evidence.** A useful portfolio includes runnable software, architecture, tests, failure modes, and honest limitations.
+4. **Design for operators as well as users.** Logs, metrics, recovery paths, and deployment documentation are product features.
+5. **Prefer depth over demo count.** Each flagship project is being strengthened toward a clear production standard.
 
-> **Move beyond learning individual technologies and build complete systems that solve meaningful problems.**
+## Current direction
 
----
+- Evaluation and regression testing for RAG and model responses
+- Secure tool execution and human-in-the-loop agent governance
+- Cost, latency, quality, and reliability observability for AI applications
+- Cloud-native deployment patterns across GCP and Cloudflare
 
-# ⚡ THE ENGINEERING LOOP
+## Contact
 
-<div align="center">
+I am open to **AI Engineer, GenAI Engineer, Applied AI, and Python AI Engineer** opportunities where I can build and improve real systems.
 
-```mermaid
-flowchart LR
-    A["💡<br/>PROBLEM"] --> B["🔍<br/>UNDERSTAND"]
-    B --> C["📐<br/>DESIGN"]
-    C --> D["⚙️<br/>BUILD"]
-    D --> E["🧪<br/>TEST"]
-    E --> F["📊<br/>ANALYZE"]
-    F --> G["🚀<br/>SHIP"]
-    G --> H["🔄<br/>IMPROVE"]
-    H -. Feedback .-> B
-```
+- [LinkedIn](https://www.linkedin.com/in/veerendrakalyanbabu/)
+- [GitHub](https://github.com/veerendrakalyanbabu-VKB)
+- [Email](mailto:veerendra.kalyanbabu@gmail.com)
 
-</div>
-
----
-
-# 🧬 TECHNOLOGY MATRIX
-
-<div align="center">
-
-## CORE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode"/>
-
-<br/><br/>
-
-## AI & GENERATIVE AI
-
-![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-1E293B?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge\&logo=langchain\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector_Search-0891B2?style=for-the-badge)
-
-<br/><br/>
-
-## DATA & INTELLIGENCE
-
-<img src="https://skillicons.dev/icons?i=python,postgres"/>
-
-<br/>
-
-`Pandas`   `DuckDB`   `PyArrow`   `Plotly`   `Power BI`   `Analytics`
-
-<br/><br/>
-
-## CLOUD & APPLICATIONS
-
-<img src="https://skillicons.dev/icons?i=gcp,docker,fastapi,streamlit"/>
-
-<br/>
-
-`BigQuery`   `Cloud Storage`   `Vertex AI`   `IAM`   `REST APIs`   `pytest`
-
-</div>
-
----
-
-# 🚀 FLAGSHIP SYSTEMS
-
-<div align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-              FOUR PROJECTS • FOUR ENGINEERING DOMAINS
-
-     AGENTIC AI • DOCUMENT INTELLIGENCE • OPERATIONS • DATA
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br/>
-
-## 01 — 🧠 OPENWORLD
-
-<div align="center">
-
-### THE TRUST LAYER FOR THE AGENTIC INTERNET
-
-**Human Intent → Policy → AI Execution → Approval → Audit → Verifiable Results**
-
-</div>
-
-OpenWorld explores how AI agents and autonomous systems can operate within a framework of **trust, governance, policy controls, human approval and auditable execution**.
-
-```mermaid
-flowchart LR
-    A["👤 Human<br/>Intent"] --> B["📜 Policy<br/>Engine"]
-    B --> C["🤖 AI<br/>Agent"]
-    C --> D["⚙️ Action<br/>Execution"]
-    D --> E{"🛡️ Approval<br/>Required?"}
-    E -->|Yes| F["👤 Human<br/>Approval"]
-    E -->|No| G["🔍 Audit<br/>Trail"]
-    F --> G
-    G --> H["✓ Verifiable<br/>Result"]
-```
-
-<div align="center">
-
-`AGENTIC AI` • `AI GOVERNANCE` • `POLICY` • `TRUST` • `HUMAN-IN-THE-LOOP`
-
-<br/>
-
-<a href="https://openworld-web.onrender.com/">
-<img src="https://img.shields.io/badge/LAUNCH_OPENWORLD-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 02 — 📄 NEXUSDOCS AI
-
-<div align="center">
-
-### AI-POWERED DOCUMENT INTELLIGENCE
-
-**Upload Knowledge → Retrieve Context → Generate Grounded Answers**
-
-</div>
-
-A **Retrieval-Augmented Generation system** designed to transform documents into searchable knowledge and deliver context-aware responses.
-
-```mermaid
-flowchart LR
-    A["📄 Documents"] --> B["🔎 Extract"]
-    B --> C["✂️ Chunk"]
-    C --> D["🧮 Embed"]
-    D --> E[("🗄️ Vector Store")]
-    Q["❓ User Query"] --> R["🔍 Semantic Search"]
-    E --> R
-    R --> X["📚 Retrieved Context"]
-    X --> L["🧠 LLM"]
-    L --> Z["💬 Grounded Answer"]
-```
-
-<div align="center">
-
-`PYTHON` • `RAG` • `LANGCHAIN` • `EMBEDDINGS` • `FAISS` • `VECTOR SEARCH`
-
-<br/>
-
-<a href="https://nexusdocs-ai.streamlit.app/">
-<img src="https://img.shields.io/badge/LAUNCH_NEXUSDOCS_AI-2563EB?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 03 — ⚡ NEXUSOPS AI
-
-<div align="center">
-
-### ENGINEERING & OPERATIONS INTELLIGENCE
-
-**Signals → Correlation → Investigation → Insights → Decisions**
-
-</div>
-
-An operations intelligence platform designed to connect infrastructure health, operational signals and incident context.
-
-```mermaid
-flowchart LR
-    A["📡 Operational<br/>Signals"] --> D["⚙️ Processing"]
-    B["🖥️ Infrastructure<br/>Health"] --> D
-    C["🚨 Incident<br/>Context"] --> D
-    D --> E["🔗 Correlation"]
-    E --> F["🧠 Operational<br/>Intelligence"]
-    F --> G["📊 Insights"]
-    G --> H["⚡ Faster<br/>Decisions"]
-```
-
-<div align="center">
-
-`PYTHON` • `PANDAS` • `PLOTLY` • `STREAMLIT` • `PYTEST`
-
-<br/>
-
-<a href="https://nexusops-ai-y6cvwvktst6dq2peeudqsz.streamlit.app/">
-<img src="https://img.shields.io/badge/LAUNCH_NEXUSOPS_AI-F59E0B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 04 — 📊 RECRUITMENT INTELLIGENCE PLATFORM
-
-<div align="center">
-
-### TURNING RECRUITMENT DATA INTO ACTIONABLE INTELLIGENCE
-
-</div>
-
-An end-to-end analytics platform designed to turn operational recruitment data into insights across candidate pipelines, recruiter performance and hiring trends.
-
-```mermaid
-flowchart LR
-    A["📂 Recruitment<br/>Data"] --> B["🧹 Processing"]
-    B --> C["⚙️ Analytics<br/>Engine"]
-    C --> D["👥 Candidate<br/>Funnel"]
-    C --> E["🏆 Recruiter<br/>Performance"]
-    C --> F["📈 Hiring<br/>Trends"]
-    C --> G["📊 Operational<br/>KPIs"]
-    D --> H["🖥️ Intelligence<br/>Dashboard"]
-    E --> H
-    F --> H
-    G --> H
-```
-
-<div align="center">
-
-`PYTHON` • `PANDAS` • `DUCKDB` • `PYARROW` • `STREAMLIT` • `PYTEST`
-
-<br/>
-
-<a href="https://recruitment-analytics-platform-vkb.streamlit.app/">
-<img src="https://img.shields.io/badge/LAUNCH_RECRUITMENT_INTELLIGENCE-16A34A?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🗺️ SYSTEM PORTFOLIO
-
-<div align="center">
-
-```text
-                              ┌───────────────┐
-                              │   AI SYSTEMS  │
-                              └───────┬───────┘
-                                      │
-                   ┌──────────────────┼──────────────────┐
-                   │                  │                  │
-                   ▼                  ▼                  ▼
-            ┌────────────┐     ┌────────────┐     ┌────────────┐
-            │  OPENWORLD │     │ NEXUSDOCS  │     │  NEXUSOPS  │
-            │            │     │            │     │            │
-            │ AGENTIC AI │     │ RAG / LLM  │     │ OPS INTEL  │
-            └────────────┘     └────────────┘     └────────────┘
-                   │                  │                  │
-                   └──────────────────┼──────────────────┘
-                                      │
-                                      ▼
-                            ┌──────────────────┐
-                            │ DATA INTELLIGENCE│
-                            │                  │
-                            │   RECRUITMENT    │
-                            │   ANALYTICS      │
-                            └──────────────────┘
-```
-
-</div>
-
----
-
-# 🎯 CURRENT EXPLORATION
-
-<div align="center">
-
-| 🧠 GENERATIVE AI    | 🤖 AGENTIC SYSTEMS | ☁️ CLOUD AI   | 🏗️ ENGINEERING |
-| ------------------- | ------------------ | ------------- | --------------- |
-| Advanced RAG        | Agent Workflows    | Google Cloud  | System Design   |
-| Retrieval Quality   | Tool Orchestration | Vertex AI     | Architecture    |
-| Context Engineering | Human Approval     | Cloud Systems | Testing         |
-| Evaluation          | Reliable Execution | Deployment    | Maintainability |
-
-</div>
-
----
-
-# 🧪 ENGINEERING PRINCIPLES
-
-<div align="center">
-
-```text
-01 ──► BUILD FOR REAL PROBLEMS
-        A project should demonstrate useful engineering.
-
-02 ──► UNDERSTAND THE SYSTEM
-        Tools are useful. Architecture makes them work together.
-
-03 ──► TEST ASSUMPTIONS
-        Validate behavior instead of trusting guesses.
-
-04 ──► SHIP WHAT YOU BUILD
-        Working software creates stronger learning.
-
-05 ──► KEEP IMPROVING
-        Every project is a version, not the final destination.
-```
-
-</div>
-
----
-
-# 📡 CURRENT MISSION
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A["🧠 Learn"] --> B["⚙️ Build"]
-    B --> C["🧪 Test"]
-    C --> D["🚀 Deploy"]
-    D --> E["📊 Learn From Results"]
-    E --> A
-```
-
-### BUILDING TOWARD STRONGER AI ENGINEERING CAPABILITIES
-
-**Advanced RAG • Agentic AI • Cloud AI • Production-Minded Systems**
-
-</div>
-
----
-
-# 🤝 CONNECT
-
-<div align="center">
-
-<h3>Let's connect and build meaningful technology.</h3>
-
-<a href="https://www.linkedin.com/in/veerendrakalyanbabu/">
-<img src="https://img.shields.io/badge/LINKEDIN-VEERENDRA_KALYAN_BABU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/veerendrakalyanbabu-VKB?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=footer&color=gradient&customColorList=2,4,6,8&text=BUILD%20INTELLIGENTLY.&fontSize=30&fontAlignY=38&desc=LEARN%20CONTINUOUSLY%20%E2%80%A2%20SHIP%20MEANINGFUL%20WORK&descAlignY=62&descSize=14&fontColor=FFFFFF" width="100%"/>
-
-</div>
-```
+<sub>Hyderabad, India · Portfolio claims describe implemented or explicitly identified in-progress work.</sub>
